@@ -1,0 +1,10 @@
+.scroll-float {
+  display: inline-block;
+  perspective: 1000px;
+}
+.scroll-float-text {
+  display: inline-block;
+}
+.char {
+  display: inline-block;
+}
